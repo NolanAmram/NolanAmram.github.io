@@ -13,9 +13,40 @@ h1 {
 }
 
 h2 {
-    float: right;
+    position:absolute;
+    right:1px;
     margin: 35px;
     font-size: 20px;
     font-style: italic;
 
 }
+
+ul {
+    background-color: #80acf2;
+    color:white;
+}
+
+ol {
+    background-color:#bef17f;
+    color:white;
+}
+
+a {
+    background-color:white
+}
+.info2 {
+    float:right;
+}
+
+.competences{
+    width:60%;
+    font-size:25px;
+    float:right;
+}
+
+.experiences{
+    font-size:35px;
+    width:60%;
+    float:right
+}
+
