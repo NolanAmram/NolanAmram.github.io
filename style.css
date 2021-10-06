@@ -21,27 +21,18 @@ h2 {
 
 }
 
-ul {
-    background-color: #80acf2;
-    color:white;
-}
 
 ol {
     background-color:#bef17f;
     color:white;
 }
 
-a {
-    background-color:white
-}
-.info2 {
-    float:right;
-}
-
 .competences{
     width:60%;
     font-size:25px;
     float:right;
+    background-color:#80acf2;
+    color:white
 }
 
 .experiences{
@@ -49,4 +40,10 @@ a {
     width:60%;
     float:right
 }
+
+.liens {
+    position:absolute;
+    border: 1px solid black
+}
+
 
